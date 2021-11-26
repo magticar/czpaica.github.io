@@ -24,7 +24,7 @@ description              : "Polish Cansat Competition 2022"
 url                      : "https://czpaica.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CZPAICA/czpaica.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/spacewalk.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Czterej Pancerni i Cansat"
 # breadcrumbs            : false # true, false (default)
