@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : "Czterej Pancerni i Cansat"
 title_separator          : "|"
 subtitle                 : "Polish Cansat Competition 2022"
-name                     : "CZPAICA"
+name                     : "Czterej Pancerni i Cansat"
 description              : "Polish Cansat Competition 2022"
 url                      : "https://czpaica.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CZPAICA/czpaica.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "CZPAICA"
+masthead_title           : "Czterej Pancerni i Cansat"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:czpaica@protonmail.com"
+      # url: "mailto:czpaica@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
