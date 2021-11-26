@@ -1,0 +1,41 @@
+ Wojciech Michniak:
+  name        : "Wojciech Michniak"
+  bio         : "Responsible for software and radio communication on the cansat's board"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Wojm77@gmail.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ArtSergy"
+
+
+Emilia Andres:
+  name        : "Emilia Andres"
+  bio         : "placeholder"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:placeholder@placeholder.com"
+
+
+Bartek Baran:
+  name        : "Bartek Baran"
+  bio         : "placeholder"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:placeholder@placeholder.com"
+
+
+Michał Toda:
+  name        : "Michał Toda"
+  bio         : "placeholder"
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:placeholder@placeholder.com"
