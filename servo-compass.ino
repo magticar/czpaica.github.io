@@ -1,3 +1,5 @@
+//still at work (unusable)
+#include <MechaQMC5883.h>
 #include <Servo.h>
 Servo wskazowka;
 void setup() {
